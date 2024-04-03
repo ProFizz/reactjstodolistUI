@@ -1,3 +1,6 @@
+This is just a simple code to do fetch, mark as complete and delete todos using Reactjs
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
